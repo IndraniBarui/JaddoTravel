@@ -10,7 +10,7 @@ export default function Hero() {
     >
       <div className="max-w-7xl mx-auto flex justify-center md:items-start mt-28">
         <div className="flex flex-col md:flex-row items-center">
-          {/* Left Content */}
+       
           <div className="w-full md:w-1/2 text-left md:p-20 pl-[10%]">
             <h6 className="text-orange-500 font-bold uppercase text-sm tracking-wide">
               BEST DESTINATIONS AROUND THE WORLD
@@ -35,7 +35,7 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* Right Image */}
+         
           <div className="w-full md:w-1/2 flex justify-center  md:mt-0">
             <img
               src={girlImage}

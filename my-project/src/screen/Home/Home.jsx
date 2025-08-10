@@ -10,6 +10,7 @@ import Nexttrip from "./Nexttrip";
 import BrandScrollar from "./BrandScrollar";
 import BrandCarousel from "./BrandCarousel";
 import Footer from "./Footer";
+import CookieConsent from "./CookieConsent";
 
 // girl
 export default function Home() {
@@ -40,6 +41,7 @@ export default function Home() {
   <Nexttrip/>
    <BrandCarousel/>
    <Footer/>
+   <CookieConsent />
   {/* <BrandScrollar/> */}
  
 </div>
